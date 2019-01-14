@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T15:52:02-05:00
+
+====== Campaign ======
+Created Sunday 18 November 2018
+
+==== Setting ====
+
+Our adventure takes place on the continent of Valeria. Valeria is a diverse place with several major kingdoms. The Sa Qua desert swelters the southern belt. It is an arid wasteland where only the most resolute can survive. The snowy Naral mountains on the northern cap are told to be the birth place of gods. Great secrets are said to lie within the ice covered mountains. East and West are split by The Athusar Mountains. Although the mountains are rough terrain, they provide the shortest time travelled between East and West Valeria. For this reason, merchants, nobleman, knights, bandits and other persons desperate enough have been known to make the trek. The Athusar Mountain trail is a dangerous voyage, as there are Goblins which live in the mountains killing and stealing from all who wander close to their domain. 
+
+Trudor, Ludosil, and Towen; three disputing kingdoms have recently discovered a large crystal deposit containing a large source of rare and powerful crystal ore. This crystal, Argonite, is sought after for its beauty, magical properties as well as its military application. The mining site has been contested by the kingdoms for several years and relations between the kingdoms has worsened as the land surounding the argonite deposit has been disputed. Trudor, having made the initial discovery and the fortune of having the largest quarry has an undisputable advantage both economically and **militarily**. Alukar has always been historly deficient as a kingdom. Alukarians have more than once known the pangs of hunger, witnessed a desolate farmland, and far too many have heard the knock of death at their door.
+
+Ludisol having a modest amount of land was fortunate enough to chance upon several Argonite deposits. Ludisol also having control of a local port has given it access to resources not available to the other kingdoms.
+
+Towen has fallen on hard times. They have continually poured their resources into mining Argonite with little returns. Miners in Towen are in high demand but the kingdom no longer has the means to pay them.
+
+==== Opening ====
+
+You start out in the kingdom of Towen. The kingdom is split into 5 districts
+
+
+
+== Random Names ==
+
+Zenoth
+Alukar
+
+==== Inn Names ====
+Nestled Nook Inn
+
+==== Tavern Names ====
+Boar's Head Tavern
+
+==== Shop Names ====
+Curiosity Shop

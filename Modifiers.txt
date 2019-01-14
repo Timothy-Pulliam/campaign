@@ -1,0 +1,27 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T09:10:31-05:00
+
+====== Modifiers ======
+Created Sunday 18 November 2018
+
+==== Ability Modifier Chart ====
+page 20
+
+The formula for calculating ability modifiers is 
+
+	(ability - 10) / 2 
+
+rounded down to the nearest integer.
+
+
+{{.\pasted_image.png}}
+
+
+==== Proficiency Modifiers ====
+
+* untrained (= level - 2)
+* trained (= level)
+* expert (= level + 1)
+* master (= level + 2)
+* legendary (= level + 3)

@@ -1,0 +1,89 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T09:44:43-05:00
+
+====== Character Creation ======
+Created Sunday 18 November 2018
+
+1) 
+
+Write Character Story. Pick a name.
+
+2)
+
+Choose Ancestry (Race)
+
+* hit points
+* size
+* speed
+* language
+* ability mods
+
+Anesctries with a free ability boost allow you to place an ability boost in any ability you want.
+
+{{.\pasted_image.png}}
+
+3) Choose Background
+
+Provides ability boosts, training in a Lore skill, or Feat
+
+4) Choose Class
+
+
+{{.\pasted_image001.png}}
+
+
+5) Calculate ability scores / modifiers
+Page 19
+
+Take 2 ability boosts from your character's background (page 38)
+
+GENERATING ABILITY SCORES
+When you’re ready to calculate your character’s ability
+scores, follow the steps below. 
+
+Your character’s ability
+scores each start at 10, and then you’ll apply the ability
+boosts and flaw she receives from her ancestry, background,
+and class, plus four free ability boosts she receives at 1st
+level. This process allows you to customize your character.
+
+== Ability Boosts ==
+if ability < 18:
+  ability boost = 2
+elif ability >= 18:
+  ability boost = 1
+
+At 1st level, a character can never
+have any ability score that’s higher than 18.
+
+You also cannot apply multiple ability boosts to the same ability at the same time. However, you can use an ability boost to cancel the effects of an ability flaw.
+
+== Ability Flaws ==
+The opposite of an ability boost. decrease an ability by 2 points.
+
+6) Apply Class Attributes
+* Class DC
+* Hit Points
+* Proficiencies
+
+7) Caclulate Sill Modifiers
+
+
+8 ) Take 150 sp (silver pieces), purchase equipment
+
+9) Alignment 
+The following Classes have Aligment constraints, or lose Class abilities.
+
+* Paladins must be Lawful Good
+* Cerics must align with their Deity
+
+{{.\pasted_image003.png}}
+
+
+
+
+{{.\pasted_image002.png}}
+
+
+

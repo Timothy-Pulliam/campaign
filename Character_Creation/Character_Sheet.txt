@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T10:03:26-05:00
+
+====== Character Sheet ======
+Created Tuesday 27 November 2018
+
+==== Definitions ====
+
+==== Checks / Difficulty Class (DC) ====
+
+Nonspellcasters use their class DC as the DC for many of their class features.
+
+calculate DC
+DC = 10 + mods
+
+Critically succeed check
+d20 + mods >= DC or d20 == 20
+
+Critically Fail check
+d20 + mods <= DC or d20 == 1
+
+== Hero Points ==
+Your character usually begins each game session with
+1 Hero Point, and can gain additional Hero Points
+throughout the course of the game for undertaking helpful
+tasks for the group or performing heroic deeds during her
+adventures. Your character can use Hero Points to gain
+certain benefits, such as staving off death, rerolling a d20,
+and the like. See page 300 for more about Hero Points.
+
+== AC / TAC ==
+AC (Armor Class) = how hard it is to hit a target
+TAC (Touch Armor Class) = how hard it is to touch a target
+
+Spells or abilities that give your character a bonus or
+penalty to AC also give an equal bonus or penalty to TAC
+unless stated otherwise.
+
+
+
+{{.\pasted_image.png}}

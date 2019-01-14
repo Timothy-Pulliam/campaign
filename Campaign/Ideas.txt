@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-14T11:52:44-05:00
+
+====== Ideas ======
+Created Monday 14 January 2019
+
+Mobile Maze
+https://tvtropes.org/pmwiki/pmwiki.php/Main/MobileMaze
+
+Impossible Geometry
+https://tvtropes.org/pmwiki/pmwiki.php/Main/AlienGeometries
+
+Maybe create a room where laws of physics are warped and the characters must escape by finding out the "pattern"
+
+* Hieroglyphics

@@ -1,0 +1,77 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-18T07:38:19-05:00
+
+====== Home ======
+Created Sunday 18 November 2018
+
+
+==== Definitions ====
+
+==== Checks / Difficulty Class (DC) ====
+
+calculate DC
+DC = 10 + mods
+
+Critically succeed check
+d20 + mods >= DC or d20 == 20
+
+Critically Fail check
+d20 + mods <= DC or d20 == 1
+
+
+== Bulk / Carrying Capacity ==
+Your character’s maximum Bulk determines how much
+weight she can comfortably carry. If she is carrying a
+total amount of Bulk that equals or exceeds 5 plus her
+Strength modifier, she is encumbered. She cannot carry a
+total amount of Bulk that exceeds 10 plus her Strength
+modifier. Your character’s current Bulk is equal to the sum
+of all of her items; keep in mind that every 10 light items
+make up 1 Bulk. For more about Bulk, see page 175.
+
+== Hero Points ==
+Your character usually begins each game session with
+1 Hero Point, and can gain additional Hero Points
+throughout the course of the game for undertaking helpful
+tasks for the group or performing heroic deeds during her
+adventures. Your character can use Hero Points to gain
+certain benefits, such as staving off death, rerolling a d20,
+and the like. See page 300 for more about Hero Points.
+
+==== Rarity ====
+* common (black)
+* uncommon (red)
+* rare (orange)
+* unique (blue)
+
+==== Saving Throw ====
+Roll a d20
+
+* Fortitude Save
+Resist poison, disease, physical effects
+
+* Reflex Save
+Dodge quickly
+
+* Will Save
+Resist effects that target mind and personality, charms, spells, 
+
+==== Turn Broken Down ====
+A turn is composed of the following
+
+== Action ==
+* 3 actions per turn
+* Actions may be taken in any order
+* Causes an effect
+* {{.\pasted_image001.png}}
+
+== Reaction ==
+* May only be taken after a corresponding trigger
+* May be taken during any person's turn
+* {{.\pasted_image002.png}}
+
+== Free Action ==
+* Can use an unlimited number of times
+* Causes an effect
+* {{.\pasted_image003.png}}

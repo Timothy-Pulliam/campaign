@@ -1,0 +1,23 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T14:31:59-05:00
+
+====== Classes ======
+Created Tuesday 27 November 2018
+
+
+{{.\pasted_image001.png}}
+
+
+
+== Key Ability ==
+This is the ability score that you’ll use to deterPmine the
+Difficulty Class (DC) associated with your character’s
+class features or feats. This is called your class DC. If
+your character is of a spellcasting class, this key ability is
+also used to calculate spell DCs and similar values. Most
+classes are associated with one key ability score, but some
+require you to choose from two options.
+Additionally, when you choose your character’s class,
+she gains an ability boost in her key ability. For more about
+ability boosts, see page 43.
