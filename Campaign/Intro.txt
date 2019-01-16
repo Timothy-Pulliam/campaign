@@ -1,0 +1,31 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-01-15T08:50:18-05:00
+
+====== Intro ======
+Created Tuesday 15 January 2019
+
+
+
+1) Players meet on ship. Ship is bringing cargo from island to inland. During the journey, players hear rumors about the cargo being carried. Some say it is a rare and valuable gemstone. Others say it is a magic source, gold, weapons or even a person (royalty?). However this news is just heresay and maybe it hasn't reached the small island yet.
+
+Encounter: Curse of the Albatross
+
+Summary:
+	While sailing bad winds force the ship off course into choppy waters. Rain, wind and crashing waves thrash the ship. An albatross (bird) is seen flying around the ship in the midst of the storm. This is unusual and the crew thinks it must be a bad omen. Several of the crewmates decide killing the bird will dispel the harsh weather and set them back on course.
+
+	Unkown to the crew and PCs the bird is the incarnation of Helm, god of protection. Killing the bird results in the eventual storm passing, but the ship will be stuck at sea with no wind and the whole crew cursed.
+	
+	Convincing the crew not to kill the bird (should be moderately difficult) will result in the ship being set back on course and another encounter should be used instead.
+	
+Encounter Start:
+	The players start on a ship. The voyage will last 2-3 days. In the middle of the night a large storm hits the ship, throwing it off course, and threatening to sink the ship. The crew will one by one decide that the albatross is a bad omen and should be killed. If the crew is allowed to kill the bird, it drops to the deck from a arrow through its chest. The crew rejoices. An hour passes and the storm subsides but then the wind dies completely. One by one, the crew experiences a curse most foul, both dead and living simultaneously. Finally, if left unchecked, the curse is passed onto the PCs (roll for multiple status ailments).
+
+
+Breaking the Curse:
+	The curse is broken if any of the following conditions are met:
+		* The albatross is dropped into the sea
+		* A PC says a prayer to the god Helm
+		* ALL PCs visibly show remorse for killing the bird (say "sorry", etc.)
+
+2) Players make it inland to town of Rowen. 
